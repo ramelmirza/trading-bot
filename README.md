@@ -8,4 +8,5 @@ This project is a work in progress. It currently sends **GET requests** to **Coi
     -   Market Cap
     -   Market Cap Dominance
     -   Date of Last Update
-As I gain more comfortability with various libraries like pandas, numpy, etc (as well as my data science course in semester 5) I'll be sure to go beyond data scraping/cleaning and finally manipulate the data.
+<br>
+As I gain more comfortability with various libraries like pandas, numpy, etc (as well as my data science course in semester 5) - I'll manipulate the data (as now its just scraping/cleaning)
