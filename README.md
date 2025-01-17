@@ -1,7 +1,7 @@
 # trading-bot
 
-This project is a work in progress. It currently sends GET requests to CoinMarketCap's API and stores the JSON data inside a csv file.
-  - Data Being:
+This project is a work in progress. It currently sends **GET requests** to **CoinMarketCap's API** and stores the JSON data inside a csv file.
+  - **Data:**
     -   Price
     -   24H Volume
     -   24H % Change
