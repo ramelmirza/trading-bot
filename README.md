@@ -1,6 +1,6 @@
 # trading-bot
 
-This program sends **GET requests** to **CoinMarketCap's API** and stores the JSON data inside a csv file.
+This program sends GET requests to CoinMarketCap's API and stores the JSON data inside a csv file.
 <br>
 **Data:**
   - Price
@@ -11,5 +11,5 @@ This program sends **GET requests** to **CoinMarketCap's API** and stores the JS
   - Date of Last Update
 <br>
 
-Currently creating buy/sell programs <br>
-Will implement it into an NLP Chatbot
+- Currently creating buy/sell programs <br>
+- Implementing it into an NLP chatbot
