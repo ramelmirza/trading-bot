@@ -12,4 +12,4 @@ This program sends GET requests to CoinMarketCap's API and stores the JSON data 
 <br>
 
 - Currently creating buy/sell programs <br>
-- Implementing it into an NLP chatbot
+~~- Implementing it into an NLP chatbot~~
